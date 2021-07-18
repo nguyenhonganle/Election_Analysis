@@ -30,10 +30,43 @@ In this undertaking, our last Python content should have the option to convey th
 ## Election Audit Results
 
 > How many votes were cast in this congressional election?
-  - ![Total votes](resource/Total votes.png)
+
+![Total votes](Total_votes.png)
+
+  - Total Votes Cast in this congressional election was 369,711
+ 
 > Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+![Each county in precinct](Each_county_in_precinct.png)
+
+  - Jefferson county has 10.5% total percentage with a total votes of 38,855
+  - Denver county has the 82.8% total percentage with a total votes of 306,055
+  - Arapahoe county has 6.7% total percentage with a total votes of 24,801
+
 > Which county had the largest number of votes?
+
+![Largest county a](Largest_county_a.png)
+
+![Largest county b](Largest_county_b.png)
+
+  - Denver county has the largest number total of 306,055
+  - In addition, Denver county has the total votes percentage of 82.8%
+  - Denver county is the Largest County Turnout
+
 > Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+![Each candidate received](Each_candidate_received.png)
+
+  - Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213
+  - Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,892
+  - Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 11,606
+
 > Which candidate won the election, what was their vote count, and what was their percentage of the total votes
+
+![Winner](Winner.png)
+
+  - Diana DeGette won the election, with a total votes of 272,892
+  - In addition, Diana DeGette has the total percentage votes of 73.8%
+  - Diana DeGette is the Winner!
 
 ## Election Audit Summary
