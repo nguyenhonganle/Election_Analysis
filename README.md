@@ -70,3 +70,5 @@ In this undertaking, our last Python content should have the option to convey th
   - Diana DeGette is the Winner!
 
 ## Election Audit Summary
+
+This content can be altered for various future purposes by having it run different assignments to get a more profound arrangement in case somebody was a mission director for a competitor. We could investigate urban communities and not simply areas. We can go into a more inside and out take a gander at which urban communities stand firm on a huge footing in deciding whether an applicant will the champ of the political decision. Clearly, we would need to accumulate this information and information it into our election_results.csv document, then, at that point essentially do a similar idea as we accomplished for our district's part in this content. This model can be utilized for future purposes for contenders to perceive how to win a future political race.
