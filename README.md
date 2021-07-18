@@ -63,7 +63,7 @@ In this undertaking, our last Python content should have the option to convey th
 
 > Which candidate won the election, what was their vote count, and what was their percentage of the total votes
 
-![Winner](Winner.png)
+![Winner](resource/Winner.png)
 
   - Diana DeGette won the election, with a total votes of 272,892
   - In addition, Diana DeGette has the total percentage votes of 73.8%
